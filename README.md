@@ -25,8 +25,12 @@
   <pre>
     A great deal of intelligence can be invested in ignorance than the need for illusion is deep.
     </pre> 
-  </artcle>
+  </article>
   
+  </article class="article">
+      <p>
+ A <em>great</em> deal of <strong>intelligence</strong>can be invested in <wbr>
+ 
   
   
   
